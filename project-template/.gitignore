@@ -1,0 +1,5 @@
+build/
+*.o
+*.elf
+*.uf2
+.vscode/
